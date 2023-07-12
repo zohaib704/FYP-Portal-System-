@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Fyp2_Evaluation" targetNamespace="http://tempuri.org/Fyp2_Evaluation.xsd" xmlns:mstns="http://tempuri.org/Fyp2_Evaluation.xsd" xmlns="http://tempuri.org/Fyp2_Evaluation.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Fyp2_Evaluation" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Fyp2_Evaluation" msprop:Generator_UserDSName="Fyp2_Evaluation">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SecondFyp" msprop:Generator_TableClassName="SecondFypDataTable" msprop:Generator_TableVarName="tableSecondFyp" msprop:Generator_TablePropName="SecondFyp" msprop:Generator_RowDeletingName="SecondFypRowDeleting" msprop:Generator_RowChangingName="SecondFypRowChanging" msprop:Generator_RowEvHandlerName="SecondFypRowChangeEventHandler" msprop:Generator_RowDeletedName="SecondFypRowDeleted" msprop:Generator_UserTableName="SecondFyp" msprop:Generator_RowChangedName="SecondFypRowChanged" msprop:Generator_RowEvArgName="SecondFypRowChangeEvent" msprop:Generator_RowClassName="SecondFypRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="S_AridNo" msprop:Generator_ColumnVarNameInTable="columnS_AridNo" msprop:Generator_ColumnPropNameInRow="S_AridNo" msprop:Generator_ColumnPropNameInTable="S_AridNoColumn" msprop:Generator_UserColumnName="S_AridNo" type="xs:string" minOccurs="0" />
+              <xs:element name="S_Name" msprop:Generator_ColumnVarNameInTable="columnS_Name" msprop:Generator_ColumnPropNameInRow="S_Name" msprop:Generator_ColumnPropNameInTable="S_NameColumn" msprop:Generator_UserColumnName="S_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_Mids" msdata:Caption="Propsel_M" msprop:Generator_ColumnVarNameInTable="columnTotal_Mids" msprop:Generator_ColumnPropNameInRow="Total_Mids" msprop:Generator_ColumnPropNameInTable="Total_MidsColumn" msprop:Generator_UserColumnName="Total_Mids" type="xs:string" minOccurs="0" />
+              <xs:element name="Examiner_1" msdata:Caption="Poster_M" msprop:Generator_ColumnVarNameInTable="columnExaminer_1" msprop:Generator_ColumnPropNameInRow="Examiner_1" msprop:Generator_ColumnPropNameInTable="Examiner_1Column" msprop:Generator_UserColumnName="Examiner_1" type="xs:string" minOccurs="0" />
+              <xs:element name="Examiner_2" msdata:Caption="Supervsor_M" msprop:Generator_ColumnVarNameInTable="columnExaminer_2" msprop:Generator_ColumnPropNameInRow="Examiner_2" msprop:Generator_ColumnPropNameInTable="Examiner_2Column" msprop:Generator_UserColumnName="Examiner_2" type="xs:string" minOccurs="0" />
+              <xs:element name="Coordinator_M" msdata:Caption="Examiner_M" msprop:Generator_ColumnVarNameInTable="columnCoordinator_M" msprop:Generator_ColumnPropNameInRow="Coordinator_M" msprop:Generator_ColumnPropNameInTable="Coordinator_MColumn" msprop:Generator_UserColumnName="Coordinator_M" type="xs:string" minOccurs="0" />
+              <xs:element name="Total_M" msprop:Generator_ColumnVarNameInTable="columnTotal_M" msprop:Generator_ColumnPropNameInRow="Total_M" msprop:Generator_ColumnPropNameInTable="Total_MColumn" msprop:Generator_UserColumnName="Total_M" type="xs:string" minOccurs="0" />
+              <xs:element name="S_No" msprop:Generator_ColumnVarNameInTable="columnS_No" msprop:Generator_ColumnPropNameInRow="S_No" msprop:Generator_ColumnPropNameInTable="S_NoColumn" msprop:Generator_UserColumnName="S_No" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,16 @@
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\bin\Debug\netcoreapp3.1\rdlcDesign.exe
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\bin\Debug\netcoreapp3.1\rdlcDesign.deps.json
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\bin\Debug\netcoreapp3.1\rdlcDesign.runtimeconfig.json
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\bin\Debug\netcoreapp3.1\rdlcDesign.runtimeconfig.dev.json
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\bin\Debug\netcoreapp3.1\rdlcDesign.dll
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\bin\Debug\netcoreapp3.1\rdlcDesign.pdb
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.csproj.AssemblyReference.cache
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.Form1.resources
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.csproj.GenerateResource.cache
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.AssemblyInfoInputs.cache
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.AssemblyInfo.cs
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.csproj.CoreCompileInputs.cache
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.dll
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.pdb
+C:\Users\Nexgen\Desktop\FYPmanagementSystem\rdlcDesign\obj\Debug\netcoreapp3.1\rdlcDesign.genruntimeconfig.cache

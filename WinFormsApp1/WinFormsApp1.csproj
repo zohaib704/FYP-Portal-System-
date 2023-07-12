@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="ReportDataset\Fyp1_Evaluation.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Fyp1_Evaluation.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="ReportDataset\Fyp1_Evaluation.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Fyp1_Evaluation.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
